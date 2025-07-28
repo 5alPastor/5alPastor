@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jose Rincon — aka **5alPastor** 🌮
 
-I'm a full-stack Java developer who is passionate about building web apps and diving into data analysis. With a love for clean UI and functional backend systems, I enjoy crafting interactive and scalable applications. I'm always learning, building, and always experimenting — especially where tech meets creativity.
+I'm a full-stack Java developer who is passionate about building web apps and diving into data analysis. With a love for clean UI and functional backend systems, I enjoy crafting interactive and scalable applications. I'm always learning, always building, and always experimenting — especially where tech meets creativity.
 
 ---
 
@@ -21,6 +21,19 @@ I'm a full-stack Java developer who is passionate about building web apps and di
 
 ---
 
+## 🛠️ Skills & Tools
+
+### Web Development:
+- HTML, CSS, JavaScript, Bootstrap  
+- Java, Spring Boot, Postman
+
+### Data Analysis:
+- Python, Pandas, SciPy, Jupyter Notebook  
+- Matplotlib, Seaborn, Plotly, Dash  
+- SQL, CLI, Tableau
+
+---
+
 ## 🚀 Projects
 
 Here are a few projects I'm proud of (more coming soon):
@@ -33,7 +46,19 @@ Here are a few projects I'm proud of (more coming soon):
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🤝 Let's Connect
 
-```text
-Java • Spring Boot • HTML • CSS • JavaScript • React • Bootstrap • Git • Postman • MySQL • VS Code • IntelliJ
+- 💼 [LinkedIn](https://www.linkedin.com/in/josemrincon/)
+
+---
+
+## ☕ Fun Facts
+
+- Coffee lover & RPG player 🎲  
+- Photography enthusiast 📸  
+- Passionate about storytelling in all forms ✍️
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
